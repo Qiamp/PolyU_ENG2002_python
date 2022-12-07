@@ -1,0 +1,2 @@
+Write Text:
+This text is 1234567 to file!
